@@ -12,7 +12,7 @@ public class EntityController : MonoBehaviour {
 
     float mouseRotationY;
     public Transform pAnchorT;
-    bool flyToggle;
+    bool flyToggle = true;
     public const float gravityConst = -9.8f;
     float velocityY;
     

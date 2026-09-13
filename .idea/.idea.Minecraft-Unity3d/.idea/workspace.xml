@@ -11,15 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1709349-1a96-4784-bb3c-3d8cf3e72c15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BlockEngine/BlockID.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BlockEngine/BlockID.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Minecraft-Unity3d/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Minecraft-Unity3d/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Res/Block.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Res/Block.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Res/Water.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Res/Water.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BlockEngine/BlockFace.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BlockEngine/BlockFace.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BlockEngine/BlockState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BlockEngine/BlockState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BlockEngine/Chunk.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BlockEngine/Chunk.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/EntityController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EntityController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/World.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/World.cs" afterDir="false" />
     </list>
@@ -145,6 +140,8 @@
       <workItem from="1788972480699" duration="1648000" />
       <workItem from="1789016835585" duration="4755000" />
       <workItem from="1789043247867" duration="1713000" />
+      <workItem from="1789101087278" duration="540000" />
+      <workItem from="1789276172137" duration="1110000" />
     </task>
     <servers />
   </component>
@@ -181,10 +178,10 @@
           <line>73</line>
           <properties documentPath="$PROJECT_DIR$/Assets/Scripts/World.cs" containingFunctionPresentation="Method 'GetChunk'">
             <startOffsets>
-              <option value="2234" />
+              <option value="2236" />
             </startOffsets>
             <endOffsets>
-              <option value="2235" />
+              <option value="2237" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="4" />

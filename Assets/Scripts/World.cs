@@ -22,7 +22,7 @@ public class World : MonoBehaviour {
 
     public void Start() {
         float half = randerDist * 0.5f * Chunk.Width;
-        playerT.position = new Vector3(500, 130, 500);
+        playerT.position = new Vector3(5000, 100, 5000);
         
         // Init(randerDist,randerDist);
         // BuildMesh();
