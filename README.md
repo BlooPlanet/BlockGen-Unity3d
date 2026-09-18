@@ -6,7 +6,8 @@ A lightweight voxel game engine built in Unity, featuring custom block mesh gene
 
 ## Demo
 
-**Play the demo:** [[Your Demo Link](https://blooplanet.itch.io/blockgen-test)]
+**Play the demo:** 
+https://blooplanet.itch.io/blockgen-test
 
 ## Quick Start
 
